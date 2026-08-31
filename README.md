@@ -8,7 +8,7 @@ A responsive full-stack Human-Machine Interface (HMI) that guides a VMC (Vertica
 
 ## Live Demo
 
-Open **http://localhost:5173** after starting both servers (see below).
+Open **https://frontend-delta-flame-92.vercel.app/** after starting both servers (see below).
 
 ---
 
